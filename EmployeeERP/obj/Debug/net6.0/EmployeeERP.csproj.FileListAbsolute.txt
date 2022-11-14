@@ -42,6 +42,7 @@ E:\Practice\EmployeeERP\EmployeeERP\bin\Debug\net6.0\Microsoft.OpenApi.dll
 E:\Practice\EmployeeERP\EmployeeERP\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
 E:\Practice\EmployeeERP\EmployeeERP\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
 E:\Practice\EmployeeERP\EmployeeERP\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Practice\EmployeeERP\EmployeeERP\bin\Debug\net6.0\Npgsql.dll
 E:\Practice\EmployeeERP\EmployeeERP\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 E:\Practice\EmployeeERP\EmployeeERP\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 E:\Practice\EmployeeERP\EmployeeERP\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll

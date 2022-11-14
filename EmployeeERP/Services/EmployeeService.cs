@@ -9,12 +9,10 @@ namespace EmployeeERP.Services
 {
     public class EmployeeService : IEmployeeService
     {
-        private readonly ModelStateDictionary _modelState;
         private readonly ApplicationDbContext _applicationDbContext;
-        public EmployeeService(ApplicationDbContext applicationDbContext, ModelStateDictionary modelState)
+        public EmployeeService(ApplicationDbContext applicationDbContext)
         {
             _applicationDbContext = applicationDbContext;
-            _modelState = modelState;
         }
 
         public async Task<Employee> AddEmployee(Employee objEmployee)
@@ -76,16 +74,5 @@ namespace EmployeeERP.Services
             throw new NotImplementedException();
         }
 
-        public bool ValidateEmployee(Employee employee)
-        {
-            bool nameExist = _applicationDbContext.Employees.Any(x=>x.name == employee.name);
-            if (employee.name.Trim().Length == 0)
-                _modelState.AddModelError("Name", "Name is required.");
-            if (nameExist == true)
-            {
-                _modelState.AddModelError("Name", "Name already exist");
-            }
-            return _modelState.IsValid;
-        }
     }
 }

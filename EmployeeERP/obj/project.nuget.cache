@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "RVO107VGuncPU6I6Kpni3vf4tLyoK3do241Wz1xi1kShxHcXOuGuy/t7PV4CHuuiblgfHtilxoIifxIMS2v4cw==",
+  "dgSpecHash": "riEfOwC3Z/ZV8frGp9P8C7+M7wrawibIXdmScy2NuA5TkPTnp+rdTmkFzV0AuP9c3qido7h1QqAJjoEhkyx/Ig==",
   "success": true,
   "projectFilePath": "E:\\Practice\\EmployeeERP\\EmployeeERP\\EmployeeERP.csproj",
   "expectedPackageFiles": [
@@ -49,6 +49,7 @@
     "C:\\Users\\User\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\npgsql\\7.0.0\\npgsql.7.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",

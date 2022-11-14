@@ -15,6 +15,5 @@ namespace EmployeeERP.Services.IServices
         Task UpdateEmployee(Employee employee);
 
         Task<Employee> AddEmployee(Employee objEmployee);
-        //bool ValidateEmployee(Employee employee);
     }
 }
